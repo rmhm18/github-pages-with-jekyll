@@ -1,5 +1,6 @@
 ---
 title: "Welcome to my blog"
-date: 06/23/2021
+date: 2021-06-23
 ---
+Welcome to my page
 I am Computer Enginering student.
