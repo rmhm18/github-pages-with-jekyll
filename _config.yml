@@ -2,7 +2,7 @@ title: Welcome to my Page
 author: rmhm18
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
- This is website is a way to improve my skills with github. The main goal is to created somethinng special for our users.
+This is website is a way to improve my skills with github. The main goal is to created somethinng special for our users.
 theme: minima
 
 # social links
