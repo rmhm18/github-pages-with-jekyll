@@ -1,4 +1,5 @@
-title: Welcome to my Page
+---
+title: "Welcome to my Page"
 author: rmhm18
 email: your-email@domain.com
 description: 
@@ -7,3 +8,4 @@ theme: minima
 twitter_username: rmhm18
 github_username:  rmhm18
 show_excerpts: true 
+---
